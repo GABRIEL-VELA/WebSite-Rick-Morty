@@ -36,5 +36,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform] https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
-# WebSite-Rick-Morty
->>>>>>> d4bfffe06f4724f319043c083ce48d3777a5de50
+
+
